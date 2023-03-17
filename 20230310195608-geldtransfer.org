@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       1f2896d7-0df0-45d0-ba8c-b9d4bd388b18
+:END:
+#+title: Geldtransfer
+
+- Bargeld nutzen
+
+- Bitcoin
+
+  trennt Staat und Geld
+
+- Lightning
+
+  Wallet of Satoshi
+  Muun Wallet
+
+
+REWE, Edeka, etc.
+
+Bitrefill
+
+Private Schlüssel: not your key, not your coin
+
+Coin Join: mehrere Teilnehmer erstellen eine gemeinsame Transaktion
+
+Wasabi
+  

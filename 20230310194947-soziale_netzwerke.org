@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1439c5a0-1deb-4d38-99d3-1204d0386737
+:END:
+#+title: Soziale Netzwerke
+
+- Nostr
+  Notes and other stuff transmitted by relays
+  (Empfohlen von Edward Snowden)
+  Cliend: Damus
+  Kein Account: öffentlicher und privater Schlüssel
+  
+Mehrere Mail-Adressen anwenden.
+
+

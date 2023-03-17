@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4bc9a58e-4c27-42dc-a3bc-1b74896d771c
+:END:
+#+title: Suchmaschinen
+
+- DuckDuckGo
+  Brave
+  
+

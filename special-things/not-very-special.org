@@ -1,0 +1,14 @@
+#+title:not-very-special.org
+#+date: 2023-03-17T15:58:05
+#+author: Aroldo Souza-Leite
+#+email:  asouzaleite@gmx.de
+#+export_select_tags: export
+#+export_exclude_tags: noexport
+#+startup: showall
+# BEGIN CONTENT
+
+boring
+
+# END CONTENT
+
+

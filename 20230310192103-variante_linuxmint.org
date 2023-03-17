@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6e133de7-435c-4070-b601-dfce35345807
+:END:
+#+title: Variante LinuxMint
+LinuxMint ist Windows-ähnlich.

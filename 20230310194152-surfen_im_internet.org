@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3d7a9492-1ee8-441f-af08-4117c91ebdea
+:END:
+#+title: Surfen im Internet
+Virtuelles privates Netzwerk.
+
+VPN
+
+- Mullvad VPN
+
+  relativ langsam
+  Bitcoin
+
+NordVPN
+  schnell
+  Bitcoin
+  nicht OpenSource
+  
+Proton VPN
+   sehr langsam
+
+Ukraine: alles Umsonst
+  

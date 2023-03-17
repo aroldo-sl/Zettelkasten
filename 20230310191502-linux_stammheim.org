@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       298df964-797a-45ed-ab1e-dcfe2f4db684
+:END:
+#+title: Linux Stammheim
+Ein einfacher Weg von W.. auf Linux umzusteigen.
+
+Einige Varianten:
+

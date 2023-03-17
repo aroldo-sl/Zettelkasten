@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       092bc555-5fc5-430c-beb1-0b9ca0b057e2
+:END:
+#+title: Messengerdienste
+
+- Signal
+
+- Telegram
+
+- Threema
+
+kostenlos, OpenSource, verschlüsselt
+
+
